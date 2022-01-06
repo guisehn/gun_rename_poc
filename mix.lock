@@ -1,0 +1,3 @@
+%{
+  "forms": {:hex, :forms, "0.0.1", "45f3b10b6f859f95f2c2c1a1de244d63855296d55ed8e93eb0dd116b3e86c4a6", [:rebar3], [], "hexpm", "530f63ed8ed5a171f744fc75bd69cb2e36496899d19dbef48101b4636b795868"},
+}
